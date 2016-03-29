@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+main: org.bitbucket.ucchy.moe.MagicOfExplosion
+Description: MagicOfExplosion
+author: ucchy
